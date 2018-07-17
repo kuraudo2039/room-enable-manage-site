@@ -1,0 +1,35 @@
+
+.tabs{
+/*  letter-spacing: -.4em;*/
+margin-left:50px;
+}
+
+.tabs .tab{
+  display: inline-block;
+  text-align:center;
+  margin-right:10px;
+  margin-top:30px;
+  padding:5px 0px;
+  width:100px;
+  background-color:#f8f8ff;
+
+  border-radius:40px 40px 0px 0px;
+}
+
+.tab p{
+  display: inline-block;
+  font-size:20px;
+  margin:0px;
+}
+
+.tab:hover{
+  opacity:0.5;
+}
+/*.tabs .one p{
+  font-size:30px;
+}
+.tab.one{
+    margin-top:0px;
+    width:150px
+}
+*/
